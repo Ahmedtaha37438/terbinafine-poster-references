@@ -1,0 +1,11 @@
+دليل نشر صفحة مراجع البوستر على GitHub Pages
+
+1- افتح https://github.com وسجّل الدخول أو أنشئ حسابًا مجانيًا.
+2- اضغط + ثم New repository. سمّ المستودع: terbinafine-poster-references، واختار Public ثم Create repository.
+3- داخل المستودع: Add file > Upload files ثم ارفع index.html و references.pdf و .nojekyll (لا ترفع ZIP نفسه). اضغط Commit changes.
+4- افتح Settings > Pages. تحت Build and deployment: Source = Deploy from a branch، Branch = main، Folder = /(root)، ثم Save.
+5- بعد النشر: Settings > Pages > Visit site. انسخ الرابط الحقيقي الظاهر لك.
+6- افتح الصفحة بالموبايل، واضغط Read publication على المراجع الثمانية، ثم Download references PDF.
+7- ابعت الرابط الحقيقي هنا لعمل QR Code نهائي (PNG + SVG). لا تصنع QR من رابط افتراضي.
+
+مهم: الاستضافة مجانية للمستودعات العامة وفق سياسات GitHub الحالية، لكن لا يوجد ضمان بقاء أبدي. الحفاظ على اسم المستودع وحساب GitHub مهم لعدم تغير رابط QR المطبوع.
